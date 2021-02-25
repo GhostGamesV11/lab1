@@ -24,17 +24,25 @@
 # elif dzialanie == '4':
 #             print(a, '/', b, '=', a / b)
 
+#zad3
+#a+=1
+#b-=1
+#c*=1
+#d/=1
+#e**=1
+#f%=1
+
 
 #zad4
 # import math
-# #1
+#1
 # print(math.e**10)
-# #2
+#2
 # x =math.sin(8)**2
-# print(math.pow(x, 1.0/6))
-# #3
+# result=(math.log(5+x))** 1/6
+#3
 # print(math.floor(3.55))
-# #4
+#4
 # print(math.ceil(4.80))
 
 
